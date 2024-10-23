@@ -6,4 +6,5 @@
 ### 21. Symmetric Matrix (UVA 11349)
 ### 27. Funny Encryption Method (UVA 10019)
 ### 32. Divide, But Not Quite Conquer! (UVA 10190)
+### 34. 2 the 9s (UVA 10922)
 ### 42. Train Swapping (UVA 00299)
