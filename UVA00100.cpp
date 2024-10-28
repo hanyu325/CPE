@@ -1,4 +1,4 @@
-// The 3n + 1 Problem
+// 4. The 3n + 1 Problem
 
 #include <iostream>
 #include <algorithm>
@@ -25,7 +25,10 @@ int main() {
     while (cin >> num1 >> num2) {
         cout << num1 << ' ' << num2 << ' ';
         int MaxCount = 0;
+
+        // Because we not sure num1 will smaller than num2, so we add this code to ensure num1 < num2
         if (num1 > num2) swap(num1, num2);
+        
         for (int i = num1; i <= num2; i++) {
             if (MaxCount < func(i)) MaxCount = func(i);
         }
