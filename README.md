@@ -9,5 +9,6 @@
 ### (UVA 10019) 27. Funny Encryption Method 
 ### (UVA 10931) 28. Parity
 ### (UVA 10190) 32. Divide, But Not Quite Conquer! 
+### (UVA 10235) 33. Simply Emirp
 ### (UVA 10922) 34. 2 the 9s 
 ### (UVA 00299) 42. Train Swapping 
